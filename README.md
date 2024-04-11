@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Linux Server Installation
 - 💞️ I’m looking to collaborate on building app based on Python.
 - 📫 How to reach me abtin.mansouri@yahoo.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Programming to be fun 
 
 <!---
