@@ -2,7 +2,7 @@
 - 👋 Telcomm engineer , International Trainer , RISICo Founder & CEO
 - 👀 Close friend to Python Developement , Computer Vision Topics, NLP , LLM & Linux.
 - 🌱 Experience : Telecommunication Senior Network Designer & Planner , Junior in :Palm OS Developer , MySQL & PHP , Assembly Language (x86) & Visual Baisc & HW Designer .
-- 💞️ I’m looking to collaborate on building app based on Python.
+- 💞️ I’m looking to collaborate on building app.
 - 📫 How to reach me abtin.mansouri@yahoo.com.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Programming to be fun whenever your are in a team ! 
